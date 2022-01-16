@@ -1,4 +1,4 @@
-### Hi there, I'm Santanu Kumar 👋 
+## Hi there, I'm Santanu Kumar 👋 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanukumar666" alt="santanukumar666" /> </p>
 
