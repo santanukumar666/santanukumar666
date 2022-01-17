@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning Deep Learning and Web3
-- 👯 I’m looking to for help with open source :confused: 
+- 👯 I’m looking for help with open source :confused: 
 - 💬 Ask me about Data science :v:
 - ⚡ Fun fact: I use big words just to photosynthesis :grinning:
 
