@@ -13,6 +13,7 @@
 
 ### Connect with me:
 [![Website](https://img.shields.io/website?label=santanukumar.com&style=for-the-badge&url=https%3A%2F%2Fsantanukumar.netlify.app)](https://santanukumar.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santanu.somu1610@gmail.com)
 [![Twitter](https://img.shields.io/badge/<notsantanuk>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/notsantanuk)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santanu-kumar-vjti/)
 [![Instagram](https://img.shields.io/badge/<santanu_._kumar>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/santanu_._kumar/)
